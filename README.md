@@ -1,6 +1,6 @@
 # Microprocessor Systems
 
-Lab work and term project for Microprocessor Systems accomplished using HCS12-based Microprocessor CodeWarrior .Feel free to reference, but avoid copying.
+Lab work and term project for Microprocessor Systems accomplished using HCS12-based Microprocessor board on CodeWarrior. Feel free to reference, but avoid copying.
 
 Introduces small microprocessor-based systems, with an emphasis on embedded system hardware and software design. Topics will include microprocessor architecture and structure, with an overview of 8- 16- and 32-bit systems, assembly language programming and the use of high-level languages. Basic input/output including parallel communications with and without handshaking and serial protocols. Hardware and software timing. Using interrupts and exceptions. Overview of single-chip microprocessors and controllers with an emphasis on the Freescale HCS12. The internal structure and design of peripheral devices. Memory system design and analysis. The use and structure of development tools such as (cross) assemblers or compilers, monitor programs, simulators, emulators, etc.
 
